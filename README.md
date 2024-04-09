@@ -58,9 +58,3 @@ There are 3 Folders
   URL for Admin Panel : http://localhost:5002/api/
 
 
-  **Blog**: https://www.webdeveloperguide.in/  
-  **YouTube**: https://www.youtube.com/WebDeveloperGuide  
-  **GitHub**: https://github.com/WebDeveloperGuide/  
-  **FaceBook**: https://www.facebook.com/webdeveloperguides/  
-  **Twitter**: https://twitter.com/WebDeveloperGd  
-
